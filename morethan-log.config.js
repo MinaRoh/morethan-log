@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: 'morethanmin/morethan-log',
+      repo: 'MinaRoh/notion-utterances',
       'issue-term': 'og:title',
       label: '💬 Utterances',
     }
